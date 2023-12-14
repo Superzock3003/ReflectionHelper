@@ -159,10 +159,10 @@ public class Minecraft {
         v1_19_R1(11901),
         v1_19_R2(11902),
 
-        /// (Potentially) Upcoming versions
         v1_20_R1(12001),
-
-        v1_21_R1(12101),
+        v1_20_R2(12002),
+        v1_20_R3(12003),
+        v1_20_R4(12004),
         ;
 
         private final MinecraftVersion version;
